@@ -62,3 +62,5 @@ export const Header: React.FC<HeaderProps> = ({ isMenuOpen, setIsMenuOpen }) => 
     </header>
   );
 };
+  )
+}
